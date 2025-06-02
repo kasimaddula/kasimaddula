@@ -115,7 +115,7 @@ Renowned for designing **intelligent, efficient, and maintainable regression sui
 ## **Top Brands where my servaices are offered**
 | Company | Logo |
 |--------|------|
-| NBNCo | <img src="https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75" height="40"/> |
+| NBNCo | <img src="https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75" height="40" width="80"/> |
 | AMP | <img src="https://github.com/user-attachments/assets/a2654114-86ad-4b87-857b-cf17206c77cc" height="40"/> |
 | Jetstar | <img src="https://github.com/user-attachments/assets/d50c0433-1c1d-432b-a89a-10b6b7187c49" height="40"/> |
 | Laminex | <img src="https://github.com/user-attachments/assets/5888821a-c6e9-466f-a3d2-4a4056643e45" height="40"/> |

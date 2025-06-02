@@ -2,7 +2,7 @@
 # **[Kasi Maddula]**  
 **Senior Test Automation Architect | Quality Engineering Leader | SDLC & STLC Expert**
 
-📧 kasi.maddula@gmail.com | 📞 +61-452-561-347 | 🌐 [LinkedIn / Portfolio Website] | 📍 Melbourne, Australia
+📧 kasi.maddula@gmail.com | 📞 +61-452-561-347 | 🌐 [[LinkedIn / Portfolio Website]](https://www.linkedin.com/in/kasimaddula/) | 📍 Melbourne, Australia
 
 ---
 

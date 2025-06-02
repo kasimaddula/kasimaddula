@@ -112,6 +112,16 @@ Renowned for designing **intelligent, efficient, and maintainable regression sui
 - Automation as a Service (AaaS)
 
 ---
+## **Top Brands where my servaices are offered**
+| Company | Logo |
+|--------|------|
+| NBNCo | ![NBNCo](https://assets.brandfetch.io/6dPpOa9i10/idSn4OWU0h.svg) |
+| AMP | ![AMP](https://companieslogo.com/img/orig/AMP.AX_BIG.D-d219b1e2.png?t=1633072361) |
+| Jetstar | ![Jetstar](https://content.airhex.com/content/logos/airlines_JQ_300_100_r.png) |
+| Laminex | ![Laminex](https://assets.brandfetch.io/idQv-FSRe-/idvH52lCAX.svg) |
+| PlayHQ | ![PlayHQ](https://get.playhq.com/hubfs/PlayHQ_Logo_Black.svg) |
+| ANZ | ![ANZ](https://1000logos.net/wp-content/uploads/2021/05/ANZ-logo.png) |
+---
 
 ## **Let’s Work Together**
 

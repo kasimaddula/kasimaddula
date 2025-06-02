@@ -115,13 +115,13 @@ Renowned for designing **intelligent, efficient, and maintainable regression sui
 ## **Top Brands where my servaices are offered**
 | Company | Logo |
 |--------|------|
-| NBNCo | ![NBNCo](https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75) |
-| AMP | ![AMP](https://github.com/user-attachments/assets/a2654114-86ad-4b87-857b-cf17206c77cc) |
-| Jetstar | ![Jetstar](https://github.com/user-attachments/assets/d50c0433-1c1d-432b-a89a-10b6b7187c49) |
-| Laminex | ![Laminex](https://github.com/user-attachments/assets/5888821a-c6e9-466f-a3d2-4a4056643e45)|
-| PlayHQ | ![PlayHQ](https://github.com/user-attachments/assets/09a72307-623a-48dd-9f4c-a96b6336315f) |
-| ANZ | ![ANZ](https://github.com/user-attachments/assets/c9ce4dc2-4835-48ed-85ef-802555fdb631) |
-| WSV | ![WSV](https://github.com/user-attachments/assets/4983ddc5-5d0a-44c7-965a-7c4af2cdb0a4) |
+| NBNCo | <img src="https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75" height="40"/> |
+| AMP | <img src="https://github.com/user-attachments/assets/a2654114-86ad-4b87-857b-cf17206c77cc" height="40"/> |
+| Jetstar | <img src="https://github.com/user-attachments/assets/d50c0433-1c1d-432b-a89a-10b6b7187c49" height="40"/> |
+| Laminex | <img src="https://github.com/user-attachments/assets/5888821a-c6e9-466f-a3d2-4a4056643e45" height="40"/> |
+| PlayHQ | <img src="https://github.com/user-attachments/assets/09a72307-623a-48dd-9f4c-a96b6336315f" height="40"/> |
+| ANZ | <img src="https://github.com/user-attachments/assets/c9ce4dc2-4835-48ed-85ef-802555fdb631" height="40"/> |
+| WSV | <img src="https://github.com/user-attachments/assets/4983ddc5-5d0a-44c7-965a-7c4af2cdb0a4" height="40"/> |
 
 ---
 

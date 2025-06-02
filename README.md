@@ -113,14 +113,20 @@ Renowned for designing **intelligent, efficient, and maintainable regression sui
 
 ---
 ## **Top Brands where my servaices are offered**
-| Company | Logo |
-|--------|------|
-| NBNCo | ![NBNCo](https://assets.brandfetch.io/6dPpOa9i10/idSn4OWU0h.svg) |
-| AMP | ![AMP](https://companieslogo.com/img/orig/AMP.AX_BIG.D-d219b1e2.png?t=1633072361) |
-| Jetstar | ![Jetstar](https://content.airhex.com/content/logos/airlines_JQ_300_100_r.png) |
-| Laminex | ![Laminex](https://assets.brandfetch.io/idQv-FSRe-/idvH52lCAX.svg) |
-| PlayHQ | ![PlayHQ](https://get.playhq.com/hubfs/PlayHQ_Logo_Black.svg) |
-| ANZ | ![ANZ](https://1000logos.net/wp-content/uploads/2021/05/ANZ-logo.png) |
+![image](https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75)
+![image](https://github.com/user-attachments/assets/a2654114-86ad-4b87-857b-cf17206c77cc)
+![image](https://github.com/user-attachments/assets/d50c0433-1c1d-432b-a89a-10b6b7187c49)
+![image](https://github.com/user-attachments/assets/5888821a-c6e9-466f-a3d2-4a4056643e45)
+![image](https://github.com/user-attachments/assets/09a72307-623a-48dd-9f4c-a96b6336315f)
+![image](https://github.com/user-attachments/assets/c9ce4dc2-4835-48ed-85ef-802555fdb631)
+![image](https://github.com/user-attachments/assets/4983ddc5-5d0a-44c7-965a-7c4af2cdb0a4)
+
+
+
+
+
+
+
 ---
 
 ## **Let’s Work Together**

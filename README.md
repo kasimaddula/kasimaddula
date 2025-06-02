@@ -104,30 +104,6 @@ A dynamic and results-driven **Test Automation Architect** with expertise in cra
 
 </div>
 
-## 🏢 Trusted by Leading Brands
-
-<div align="center">
-
-| NBNCo | AMP | Jetstar | Laminex |
-|-------|-----|---------|---------|
-| ![NBNCo](https://github.com/user-attachments/assets/7093a580-80e9-4ec0-9890-e0d152123a75) | ![AMP](https://github.com/user-attachments/assets/a2654114-86ad-4b87-857b-cf17206c77cc) | ![Jetstar](https://github.com/user-attachments/assets/d50c0433-1c1d-432b-a89a-10b6b7187c49) | ![Laminex](https://github.com/user-attachments/assets/5888821a-c6e9-466f-a3d2-4a4056643e45) |
-
-| PlayHQ | ANZ | WSV |
-|--------|-----|-----|
-| ![PlayHQ](https://github.com/user-attachments/assets/09a72307-623a-48dd-9f4c-a96b6336315f) | ![ANZ](https://github.com/user-attachments/assets/c9ce4dc5-5d0a-44c7-965a-7c4af2cdb0a4) | ![WSV](https://github.com/user-attachments/assets/4983ddc5-5d0a-44c7-965a-7c4af2cdb0a4) |
-
-</div>
-
-## 🎓 Certifications
-
-<div align="center">
-
-![CSM](https://img.shields.io/badge/Certified_ScrumMaster-CSM-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![ISTQB](https://img.shields.io/badge/ISTQB-Advanced_Test_Automation-green?style=for-the-badge&logo=istqb&logoColor=white)
-![DevOps](https://img.shields.io/badge/Certified-DevOps_Professional-orange?style=for-the-badge&logo=devops&logoColor=white)
-
-</div>
-
 ## 🌐 Industry Expertise
 
 ```mermaid
